@@ -19,8 +19,9 @@ Deadlines fuer Teambildungen (technische Deadline), ohne Ausnahme.
 - Wintersemester: 15.10.
 - Sommersemester: 15.03.
 
-Anmeldung erfolgt via E-Mail, diese wird von einem
-Bot (@humansneednotapply) gelesen und verwertet.
+Anmeldung erfolgt via E-Mail, diese wird von dem Software Bot
+[@humansneednotapply](https://github.com/humansneednotapply)
+gelesen und verwertet.
 
 Die notwendigen Informationen sind:
 
@@ -29,8 +30,8 @@ Die notwendigen Informationen sind:
 - Matrikelnummer: **Matrikelnummer**
 - Studiengang: **Studiengang**
 
-E-Mail mit `Team` oder `Gruppe` (z.B. `Gruppenanmeldung WAW`) im
-Betreff verschicken an: `c.martens [ insert an at here ] hs-mannheim.de`
+E-Mail mit `Team` oder `Gruppe` (z.B. `Gruppenanmeldung WAW`) im Betreff verschicken an:
+`c.martens [ insert an at here ] hs-mannheim.de`
 
 
 # Entwicklungsumgebungen / Editoren
