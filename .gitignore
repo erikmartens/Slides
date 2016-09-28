@@ -1,0 +1,8 @@
+
+/node_modules
+/npm-debug.log
+
+/public/*.html
+/public/*.png
+/public/*.svg
+

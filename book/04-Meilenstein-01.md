@@ -28,7 +28,7 @@
 
 ## Status Tabelle
 
-- Spalten sind `Workload` , `IP` , `Auftrag (ID)` , `Stop/Start Button`
+- Spalten sind ID, IP, Task, Workload, Action
 - Sortierung nach Workload, IP, Auftrag und Aktiv/Inaktiv
 - Inhalte via `http://botnet.artificial.engineering/api/Status`
 - Automatische Aktualisierung in einem angemessenen Interval

@@ -121,6 +121,8 @@
 - Fast ALLE Unicode Implementierungen sind fehlerhaft
 - Never use Unicode, because:
 
+## Encoding (Unicode)
+
 ```
 effective. Powerلُلُصّبُلُلصّبُررً ॣ ॣh ॣ ॣ冗
 ```
@@ -136,22 +138,22 @@ effective. Powerلُلُصّبُلُلصّبُررً ॣ ॣh ॣ ॣ冗
 
 ## Entitaeten
 
-- `<` als `&lt;`
-- `>` als `&gt;`
-- `&` als `&amp;`
-- `"` als `&quot;`
+- `<` als `&amp;lt;`
+- `>` als `&amp;gt;`
+- `&` als `&amp;amp;`
+- `"` als `&amp;quot;`
 
 ## Tags
 
 - Tags sind Layout Elemente
-- Name in spitzen Klammern (`<h2>`)
-- Jedes Tag muss geschlossen werden (`</h2>`)
+- Name in spitzen Klammern ( `<h2>` )
+- Jedes Tag muss geschlossen werden ( `</h2>` )
 - Tags koennen verschachtelt werden
 - Verschachtelung abhaengig vom Display Model
 
 ## Leere Tags
 
-- Es gibt leere Tags (`<br>` oder `<hr>`)
+- Es gibt leere Tags ( `<br>` oder `<hr>` )
 - Leere Tags schliessen sich selbst
 
 ## Leere Tags
@@ -166,13 +168,13 @@ effective. Powerلُلُصّبُلُلصّبُررً ॣ ॣh ॣ ॣ冗
 
 ## Tags (Semantik)
 
-- Header (`<header>`)
-- Hauptteil (`<main>`)
-- Sidebars (`<aside>`)
-- Menus (`<menu>`)
-- Sektionen (`<section>`)
-- Artikel (`<article>`)
-- Footer (`<footer>`)
+- Header ( `<header>` )
+- Hauptteil ( `<main>` )
+- Sidebars ( `<aside>` )
+- Menus ( `<menu>` )
+- Sektionen ( `<section>` )
+- Artikel ( `<article>` )
+- Footer ( `<footer>` )
 
 
 ## Beispiel
@@ -191,15 +193,15 @@ effective. Powerلُلُصّبُلُلصّبُررً ॣ ॣh ॣ ॣ冗
 
 ## Tags (Inhalt)
 
-- Ueberschriften (`h1` bis `h6`)
-- Textabsaetze (`p`)
-- Blocktrenner (`div`)
-- Inline-Text (`span`)
+- Ueberschriften ( `h1` bis `h6` )
+- Textabsaetze ( `p` )
+- Blocktrenner ( `div` )
+- Inline-Text ( `span` )
 
 
 ## Live Coding
 
-- Erstelle eine valide HTML Datei
+- Erstelle `CNC/Interface/index.html`
 - Baue ein Menu mit Navigationspunkten
 - Optional: Verlinke die Menupunkte mit Hashbangs
 - Optional: Konfiguriere einen lokalen Webserver
@@ -228,24 +230,24 @@ effective. Powerلُلُصّبُلُلصّبُررً ॣ ॣh ॣ ॣ冗
 
 ## Globale Attribute
 
-- **id**: eindeutige ID (ein Element)
-- **class**: CSS-Klasse im Stylesheet (mehrere Elemente)
-- **style**: Eingebettetes Stylesheet
-- **title**: Erlaeuterung zum Element
-- **data-**: Spezielle Daten fuer das Element
+- `id` : eindeutige ID (ein Element)
+- `class` : CSS-Klasse im Stylesheet (mehrere Elemente)
+- `style` : Eingebettetes Stylesheet
+- `title` : Erlaeuterung zum Element
+- `data-` : Spezielle Daten fuer das Element
 
 ## Globale Attribute
 
-- **contenteditable**: Editierbarkeit des Inhalts
-- **draggable** und **dropzone**: Drag und Drop
-- **contextmenu**: Kontext Menu (Rechtsklick)
-- **accesskey**: Shortcut Taste fuer Selektion
-- **tabindex**: Tab-Reihenfolge
-- **tanslate**: `yes/no` fuer Uebersetzung
+- `contenteditable` : Editierbarkeit des Inhalts
+- `draggable` und `dropzone` : Drag und Drop
+- `contextmenu` : Kontext Menu (Rechtsklick)
+- `accesskey` : Shortcut Taste fuer Selektion
+- `tabindex` : Tab-Reihenfolge
+- `tanslate` : `yes/no` fuer Uebersetzung
 
 ## Live Coding
 
-- Mache den Inhalt `[Tab]`-bar
+- Mache den Inhalt `[Tab]` -bar
 - Fuege Shortcuts hinzu
 - Mache den Inhalt editierbar
 - Optional: Erstelle ein Kontext Menu
@@ -258,9 +260,9 @@ effective. Powerلُلُصّبُلُلصّبُررً ॣ ॣh ॣ ॣ冗
 
 ## Tags (Listen)
 
-- Sortierte Liste (`ol`)
-- Unsortierte Liste (`ul`)
-- Listenelemente (`li`)
+- Sortierte Liste ( `ol` )
+- Unsortierte Liste ( `ul` )
+- Listenelemente ( `li` )
 
 ## Tags (Listen)
 
@@ -285,11 +287,11 @@ effective. Powerلُلُصّبُلُلصّبُررً ॣ ॣh ॣ ॣ冗
 
 ## Tags (Tabellen)
 
-- Tabelle (`table`)
-- Header (`thead`)
-- Inhalt (`tbody`)
-- Zeile (`tr`)
-- Datenzelle (`td`)
+- Tabelle ( `table` )
+- Header ( `thead` )
+- Inhalt ( `tbody` )
+- Zeile ( `tr` )
+- Datenzelle ( `td` )
 
 ## Tags (Tabellen)
 
@@ -316,8 +318,8 @@ effective. Powerلُلُصّبُلُلصّبُررً ॣ ॣh ॣ ॣ冗
 
 ## Tabellen (Struktur)
 
-- Zeile verbinden (`tr rowspan="2"`)
-- Spalte verbinden (`td colspan="2"`)
+- Zeile verbinden ( `tr rowspan="2"` )
+- Spalte verbinden ( `td colspan="2"` )
 
 ## Live Coding
 
@@ -334,7 +336,7 @@ effective. Powerلُلُصّبُلُلصّبُررً ॣ ॣh ॣ ॣ冗
 
 ## Meta-Daten
 
-- Gehoeren in den Header der Datei (&lt;head&gt;)
+- Gehoeren in den Header der Datei ( `<head>` )
 - Anweisungen fuer den Browser
 - Anweisungen fuer Spiders oder Scraper
 - Anweisungen fuer Crawler und Bots
@@ -401,7 +403,7 @@ effective. Powerلُلُصّبُلُلصّبُررً ॣ ॣh ॣ ॣ冗
 
 ## Bilder
 
-- &lt;img&gt; Tag
+- `<img>` Tag
 - `src` Attribut mit `URL` Wert.
 - `alt` Alternativer Text (nicht ladbares Bild)
 - `width`, `height` jeweils mit Pixelwert

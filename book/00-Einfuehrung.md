@@ -12,14 +12,14 @@
 
 ## Steckbrief
 
-- `2008-2010` Chromium / Cyanogen / AOSP Contributor
-- `2010-2012` Zynga STG - JavaScript Architect
-- `2014-2015` LAB 75 - Software Scientist
-- `2015-*` Artificial Engineering - CTO
+- 2008-2010  Chromium / Cyanogen / AOSP Contributor
+- 2010-2012  Zynga STG - JavaScript Architect
+- 2014-2015  LAB 75 - Software Scientist
+- 2015-heute Artificial Engineering - CTO
 
 ## Kontakt
 
-- `c.martens@hs-mannheim.de`
+- `martens` [ insert an at here ] `lba.hs-mannheim.de`
 - Sprechzeit: Nach Vereinbarung via E-Mail
 - Bitte melden Sie sich im Moodle-Kurs an:
 - Informatik - Lehrauftraege - Moderne Webtechnologien
@@ -74,10 +74,13 @@
 
 - Gruppenarbeit 2-3 Studierende
 - Thema ist Entwicklung eines Botnets
+- Testate werden von mir abgenommen
+
+## Pruefung: Projekt
+
 - CNC: JavaScript (ES6), HTML5 und CSS3 (30 Punkte)
 - BOT: JavaScript (ES6), Node.js (30 Punkte)
 - Ergibt 60 Punkte
-- Testate werden von mir abgenommen
 
 
 
@@ -94,17 +97,19 @@
 
 ## SOFORT zu Erledigen
 
-- Folgende Aufgaben sind SOFORT zu erledigen
-- Anmeldung zum Moodle-Kurs `Moderne Webtechnologien`
-- Gruppeneinteilung `bis zum 15.10.16` ( 2-3 Personen )
+- Anmeldung in Moodle
+- Kurs `Moderne Webtechnologien`
+- Gruppeneinteilung bis zum `15.10.16`
+- 2-3 Personen je Gruppe
 
 ## Gruppeneinteilung
 
-- E-Mail mit folgenden Daten in GENAU dieser Reihenfolge:
-- Teamname
-- Person (Vor- und Nachname)
-- Matrikelnummer
-- Studiengang
+E-Mail mit folgenden Daten:
+
+- Teamname: Teamname
+- Person: Vorname Nachname
+- Matrikelnummer: Matrikelnr.
+- Studiengang: Studiengang
 
 
 

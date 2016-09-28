@@ -1,0 +1,16 @@
+
+h3 {
+	color: black;
+	animation: example 2s linear infinite;
+	text-align: center;
+	height: 48px;
+	line-height: 48px;
+}
+
+
+@keyframes example {
+	0% {   background-color: red;    font-size: 12px; }
+	50% {  background-color: yellow; font-size: 24px; }
+	100% { background-color: red;    font-size: 12px; }
+}
+

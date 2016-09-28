@@ -14,16 +14,24 @@
 ## Requisiten
 
 - GitHub Account
-- github.com/INT-WAW ist GitHub Orga
-- Texteditor ( Sublime Text, GitHub Atom, VIM )
+- github.com/INT-WAW
+- Texteditor / IDE
 - Git Bash - wichtig: BASH
 
-## Requisiten
+# Voraussetzungen
 
-Es ist wirklich empfohlen, GNU/Linux
-oder OSX mit brew zu verwenden. Ich
-leiste keinen IT Support fuer
-Windows-relevante Probleme. Sorry.
+- Umgang mit Terminal
+- Umgang mit Dateisystem und Dateien
+- Basis Bash Kenntnisse
+- `cd` , `mkdir` , `touch`
+
+# Requisiten
+
+Es wird kein grafisches `git` Tool
+erlaubt. Die Statistik ist bisher
+ueber `100:0` gegen grafische `git`
+Tools und Anwenden des Triangular
+Workflows.
 
 
 
@@ -121,8 +129,12 @@ git commit -m ":sparkles: Started work on my-feature";
 - Abzweigung des Projekts
 - Fork ist neue Software
 - Upstream ist alte Software
+
+## Fork
+
 - Beispiel: LibreOffice ist Fork von OpenOffice
 - Beispiel: LibreSSL ist Fork von OpenSSL
+- Beispiel: Nextcloud ist Fork von Owncloud
 - Beispiel: Blink ist Fork von WebKit ist Fork von KHTML
 
 
@@ -207,14 +219,12 @@ git commit -m ":sparkles: Started work on my-feature";
 - Einbettung in Issues und Commits
 - GitHub Code Editor
 
-# Projekt Setup
 
-## Project Setup
+## Live Coding
 
 - Installiere git (git-bash)
 - Forke die Boilerplate [1]
-- Clone deinen Fork lokal
-- Fuege Inhalt der HTML5 Datei hinzu
+- Fuege Inhalt einer Datei hinzu
 - Erstelle einen Feature Branch
 - Habe Commits von ALLEN Teammitgliedern
 - Erstelle einen Pull Request
