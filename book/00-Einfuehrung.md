@@ -94,9 +94,10 @@
 
 ## SOFORT zu Erledigen
 
-- Folgende Aufgaben sind SOFORT zu erledigen
-- Anmeldung zum Moodle-Kurs `Moderne Webtechnologien`
-- Gruppeneinteilung `bis zum 15.10.16` ( 2-3 Personen )
+- Anmeldung in Moodle
+- Kurs `Moderne Webtechnologien`
+- Gruppeneinteilung bis zum `15.10.16`
+- 2-3 Personen je Gruppe
 
 ## Gruppeneinteilung
 
