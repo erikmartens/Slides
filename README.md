@@ -56,16 +56,16 @@ E-Mail mit `Team` oder `Gruppe` (z.B. `Gruppenanmeldung WAW`) im Betreff verschi
 
 # Vorlesungsverlauf
 
-- Woche 01: [Einfuehrung](./00-Einfuehrung.md) und [Workflow](./01-Workflow.md)
-- Woche 02: [HTML5](./02-HTML5.md)
-- Woche 03: [CSS3](./03-CSS3.md) und [Meilenstein 01](./03-Meilenstein-01.md)
-- Woche 04: [SEO](./04-SEO.md) und [ES6](./04-ES6.md)
-- Woche 05: [ES6](./05-ES6.md) und [Web API](./05-Web-API.md)
-- Woche 06: [Meilenstein 02](06-Meilenstein-02.md) und Projektarbeit
+- Woche 01: [Einfuehrung](./book/00-Einfuehrung.md) und [Workflow](./book/01-Workflow.md)
+- Woche 02: [HTML5](./book/02-HTML5.md)
+- Woche 03: [CSS3](./book/03-CSS3.md) und [Meilenstein 01](./book/03-Meilenstein-01.md)
+- Woche 04: [SEO](./book/04-SEO.md) und [ES6](./book/04-ES6.md)
+- Woche 05: [ES6](./book/05-ES6.md) und [Web API](./book/05-Web-API.md)
+- Woche 06: [Meilenstein 02](./book/06-Meilenstein-02.md) und Projektarbeit
 - Woche 07: Projektarbeit und Projektarbeit
 - Woche 08: Testat fuer Meilenstein 01 und Meilenstein 02
-- Woche 09: [HTTP](./09-HTTP.md) und [WebSockets](./09-WebSockets.md)
-- Woche 10: [ES6](./10-ES6.md) und [Node.js](./10-NodeJS.md)
+- Woche 09: [HTTP](./book/09-HTTP.md) und [WebSockets](./book/09-WebSockets.md)
+- Woche 10: [ES6](./book/10-ES6.md) und [Node.js](./book/10-NodeJS.md)
 - Woche 11:
 - Woche 12:
 - Woche 13:
