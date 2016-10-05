@@ -18,11 +18,20 @@
 - Texteditor / IDE
 - Git Bash - wichtig: BASH
 
-## Requisiten
+# Voraussetzungen
 
-Es wird empfohlen, GNU/Linux oder OSX
-zu verwenden. Ich leiste keinen IT
-Support fuer Windows-Nutzer. Sorry.
+- Umgang mit Terminal
+- Umgang mit Dateisystem und Dateien
+- Basis Bash Kenntnisse
+- `cd` , `mkdir` , `touch`
+
+# Requisiten
+
+Es wird kein grafisches `git` Tool
+erlaubt. Die Statistik ist bisher
+ueber `100:0` gegen grafische `git`
+Tools und Anwenden des Triangular
+Workflows.
 
 
 

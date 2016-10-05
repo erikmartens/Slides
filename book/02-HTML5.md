@@ -201,7 +201,7 @@ effective. Powerلُلُصّبُلُلصّبُررً ॣ ॣh ॣ ॣ冗
 
 ## Live Coding
 
-- Erstelle eine valide HTML Datei
+- Erstelle `CNC/Interface/index.html`
 - Baue ein Menu mit Navigationspunkten
 - Optional: Verlinke die Menupunkte mit Hashbangs
 - Optional: Konfiguriere einen lokalen Webserver
