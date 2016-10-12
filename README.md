@@ -66,9 +66,9 @@ E-Mail mit `Team` oder `Gruppe` (z.B. `Gruppenanmeldung WAW`) im Betreff verschi
 - Woche 08: Testat fuer Meilenstein 01 und Meilenstein 02
 - Woche 09: [HTTP](./book/09-HTTP.md) und [WebSockets](./book/09-WebSockets.md)
 - Woche 10: [ES6](./book/10-ES6.md) und [Node.js](./book/10-NodeJS.md)
-- Woche 11:
-- Woche 12:
-- Woche 13:
-- Woche 14:
-- Woche 15:
+- Woche 11: TBA
+- Woche 12: TBA
+- Woche 13: TBA
+- Woche 14: TBA
+- Woche 15: TBA
 
