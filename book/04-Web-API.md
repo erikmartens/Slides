@@ -12,10 +12,9 @@
 ## XHR
 
 - XHR steht fuer XMLHttpRequest
-- Alte schrottige Web-API
+- Alte schrottige Web-API (1996+)
 - Neue API ist `HTTP fetch`
 - Fetch ist noch nicht Standard (thx to Microsoft)
-- XHR2 nicht ganz so scheisse
 
 ## XHR
 

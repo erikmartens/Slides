@@ -37,7 +37,7 @@ E-Mail mit `Team` oder `Gruppe` (z.B. `Gruppenanmeldung WAW`) im Betreff verschi
 # Entwicklungsumgebungen / Editoren
 
 - [GitHub Atom](https://atom.io)
-- [Sublime Text](https://sublimetext.com)
+- [Lime Text](http://limetext.com)
 - [VIM](http://www.vim.org)
 - [Visual Studio Code](https://code.visualstudio.com)
 
@@ -46,6 +46,8 @@ E-Mail mit `Team` oder `Gruppe` (z.B. `Gruppenanmeldung WAW`) im Betreff verschi
 1. Gehe auf `Fakultaet fuer Informatik`
 2. Gehe auf `Lehrauftraege`
 3. Gehe auf `INT-WAW (Moderne Webtechnologien)`
+4. ????
+5. Profit.
 
 [Direktlink zum Lehrauftrag in Moodle](http://moodle.hs-mannheim.de/enrol/index.php?id=1890)
 
@@ -53,22 +55,27 @@ E-Mail mit `Team` oder `Gruppe` (z.B. `Gruppenanmeldung WAW`) im Betreff verschi
 
 1. Nutze Chrome / Chromium oder Opera.
 2. Gehe auf `Datei` > `Drucken` > `Speichern als PDF`.
+3. ????
+4. Profit.
 
 # Vorlesungsverlauf
 
 - Woche 01: [Einfuehrung](./book/00-Einfuehrung.md) und [Workflow](./book/01-Workflow.md)
 - Woche 02: [HTML5](./book/02-HTML5.md)
-- Woche 03: [CSS3](./book/03-CSS3.md) und [Meilenstein 01](./book/03-Meilenstein-01.md)
-- Woche 04: [SEO](./book/04-SEO.md) und [ES6](./book/04-ES6.md)
-- Woche 05: [ES6](./book/05-ES6.md) und [Web API](./book/05-Web-API.md)
+- Woche 03: [CSS3](./book/03-CSS3.md)
+- Woche 04: [Meilenstein 01](./book/04-Meilenstein-01.md) und [ES6](./book/04-ES6.md) und [Web API](./book/04-Web-API.md)
+- Woche 05: [ES6](./book/05-ES6.md)
+
+**eventuell verschoben / ungeplant**
+
 - Woche 06: [Meilenstein 02](./book/06-Meilenstein-02.md) und Projektarbeit
-- Woche 07: Projektarbeit und Projektarbeit
+- Woche 07: Projektarbeit
 - Woche 08: Testat fuer Meilenstein 01 und Meilenstein 02
 - Woche 09: [HTTP](./book/09-HTTP.md) und [WebSockets](./book/09-WebSockets.md)
-- Woche 10: [ES6](./book/10-ES6.md) und [Node.js](./book/10-NodeJS.md)
-- Woche 11: TBA
-- Woche 12: TBA
-- Woche 13: TBA
-- Woche 14: TBA
-- Woche 15: TBA
+- Woche 10: [Node.js](./book/10-NodeJS.md) und [Express.js](./book/10-ExpressJS.md) und Projektarbeit
+- Woche 11: TBA (Meilenstein 03?)
+- Woche 12: TBA (Peer-to-Peer? Queueing? Redundancy? Async DB idea?)
+- Woche 13: TBA (Meilenstein 04?) und Projektarbeit
+- Woche 14: Projektarbeit
+- Woche 15: Testat fuer Meilenstein 03 und Meilenstein 04
 
