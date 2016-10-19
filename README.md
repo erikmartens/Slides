@@ -58,24 +58,24 @@ E-Mail mit `Team` oder `Gruppe` (z.B. `Gruppenanmeldung WAW`) im Betreff verschi
 3. ????
 4. Profit.
 
-# Vorlesungsverlauf
+# Vorlesungsverlauf (Teil 1)
 
 - Woche 01: [Einfuehrung](./book/00-Einfuehrung.md) und [Workflow](./book/01-Workflow.md)
 - Woche 02: [HTML5](./book/02-HTML5.md)
 - Woche 03: [CSS3](./book/03-CSS3.md)
-- Woche 04: [Meilenstein 01](./book/04-Meilenstein-01.md) und [ES6](./book/04-ES6.md) und [Web API](./book/04-Web-API.md)
-- Woche 05: [ES6](./book/05-ES6.md)
-
-**eventuell verschoben / ungeplant**
-
-- Woche 06: [Meilenstein 02](./book/06-Meilenstein-02.md) und Projektarbeit
+- Woche 04: [Meilenstein 01](./book/04-Meilenstein-01.md) und [ES6](./book/04-ES6.md) und [HTTP](./book/05-HTTP.md)
+- Woche 05: [HTTP](./book/05-HTTP.md) und [Web API](./book/05-Web-API.md)
+- Woche 06: [Meilenstein 02](./book/06-Meilenstein-02.md) und [ES6](./book/06-ES6.md) und [DOM API](./book/06-DOM-API.md)
 - Woche 07: Projektarbeit
-- Woche 08: Testat fuer Meilenstein 01 und Meilenstein 02
-- Woche 09: [HTTP](./book/09-HTTP.md) und [WebSockets](./book/09-WebSockets.md)
-- Woche 10: [Node.js](./book/10-NodeJS.md) und [Express.js](./book/10-ExpressJS.md) und Projektarbeit
-- Woche 11: TBA (Meilenstein 03?)
-- Woche 12: TBA (Peer-to-Peer? Queueing? Redundancy? Async DB idea?)
-- Woche 13: TBA (Meilenstein 04?) und Projektarbeit
+- Woche 08: Testat #1 (Meilenstein 01 und Meilenstein 02)
+
+# Vorlesungsverlauf (Teil 2)
+
+- Woche 09: [Node.js](./book/09-NodeJS.md) und [Express.js](./book/09-ExpressJS.md)
+- Woche 10: [Meilenstein 03](./book/10-Meilenstein-03.md) und [ES7](./book/10-ES7.md)
+- Woche 11: [Node.js API](./book/11-NodeJS-API.md)
+- Woche 12: [Meilenstein 04](./book/12-Meilenstein-04.md) und [ES7](./book/12-ES7.md)
+- Woche 13: TBA (Peer-to-Peer? Queueing? Synchronization?)
 - Woche 14: Projektarbeit
 - Woche 15: Testat fuer Meilenstein 03 und Meilenstein 04
 

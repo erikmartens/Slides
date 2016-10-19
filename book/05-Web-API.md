@@ -78,82 +78,6 @@ xhr.send(null);
 
 
 
-= DOM API
-
-# DOM API
-
-## DOM API
-
-- DOM API ist Document Object Model
-- Manipulation des DOM Inhalts
-- HTML ist NICHT DOM
-- DOM ist aktuelle Repraesentation von HTML
-
-## querySelector / querySelectorAll
-
-- Initieller Query fuer Elementmanipulation
-- `querySelector` fuer einzelnes Element
-- `querySelectorAll` fuer mehrere Elemente
-
-```javascript
-var element = document.querySelector('#status tbody');
-
-console.log(element); // tbody Element API
-```
-
-## Element API
-
-- DOM Elemente vererben von Web IDL Interfaces
-- Jedes Element vererbt von HTMLElement
-- Beispiel: HTMLDivElement
-- Behinderte Schreibweise
-- Namespaces aus XHTML moeglich, aber unbrauchbar
-- `data-\*` Attribute fuer Datenverhalten
-
-## Element API
-
-- `innerHTML` Property (Crappy, aber einfach)
-- `getAttribute(name)` API
-- `document.createElement(tag)` API
-- `document.createDocumentFragment()` API
-
-## Live Coding
-
-- Nutze `querySelector` auf die Tabelle
-- Integriere GET Request in generiertes HTML
-- JSON Daten als Inhalt der Tabelle
-
-
-
-= Formulare
-
-# Formulare
-
-## Form Element
-
-- `form` Tag
-- Legacy Shit, nutzt sowieso keiner mehr
-- Damals mit MIME attachment encoding
-- Ja, genauso crappy wie E-Mails
-- Nutzen wir nicht, da behindert
-
-## Input Element
-
-- `input` Tag
-- `type` Attribut ( `text` , `range` , `number` , `date` )
-- `value` Attribut
-
-## Live Coding
-
-- Button mit `start` und `stop`
-- POST Request zu `botnet.artificial.engineering`
-- Port ist `8080`, Pfad ist `/api/Status`
-- Sende JSON Inhalt via `xhr.send(data)`
-- Inhalt ist: id, action ( `stop` or `start` )
-- Hint: Google JSON xhr send MDN
-
-
-
 = HTTP Fetch
 
 # HTTP Fetch
@@ -162,16 +86,13 @@ console.log(element); // tbody Element API
 
 - Gemacht fuer HTTP 2.0
 - Gemacht fuer Promises
-- Awesome API, but not so awesome Vendors
-- Laeuft in Firefox, Chrome, Opera
-- Nicht in Safari oder Edge (because Idiots)
 
 ## Fetch API
 
 - Fetch API nutzt Promises
 - Promises sind zukuenftige async/await API
 
-## Beispiel
+## Fetch API
 
 ```javascript
 var img = document.querySelector('#status img');
@@ -186,6 +107,15 @@ fetch('fancy.jpg').then(function(response) {
 });
 ```
 
+## Fetch API
+
+```javascript
+fetch('/api/Status').then((response) => {
+	return response.json();
+}).then((json) {
+	console.log(json);
+});
+```
 
 
 = Promises
@@ -227,7 +157,7 @@ foo.then(function(val) {
 ## Promises (async/await)
 
 ```javascript
-var img  = document.querySelector('#status img');
+var img = document.querySelector('#status img');
 (async() => {
 
 	var blob = await fetch('fancy.jpg').then(response => response.blob);

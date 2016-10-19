@@ -103,7 +103,7 @@ Set-Cookie: NIDE=123123123; expires=Wed, 26-Oct-2016 10:00:00 GMT; path=/; domai
 
 ## HTTP Pipelines
 
-![Pipelines](/asset/09-HTTP-pipeline.svg)
+![Pipelines](05-HTTP-pipeline.svg)
 
 
 
