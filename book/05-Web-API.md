@@ -72,7 +72,8 @@ xhr.send(null);
 ## Live Coding
 
 - GET Request zu `botnet.artificial.engineering`
-- Port ist `8080`, Pfad ist `/api/Status`
+- Port ist `80`, Pfad ist `/api/Status`
+- Pfad ist `http://botnet.artificial.engineering:80/api/Status`
 - Parse JSON Daten und logge Antwort in console
 - Setze Encoding auf `UTF-8`
 
