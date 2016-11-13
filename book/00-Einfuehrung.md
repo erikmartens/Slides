@@ -19,7 +19,7 @@
 
 ## Kontakt
 
-- `c.martens@hs-mannheim.de`
+- `martens` [ insert an at here ] `lba.hs-mannheim.de`
 - Sprechzeit: Nach Vereinbarung via E-Mail
 - Bitte melden Sie sich im Moodle-Kurs an:
 - Informatik - Lehrauftraege - Moderne Webtechnologien

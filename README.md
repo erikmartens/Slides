@@ -31,7 +31,7 @@ Die notwendigen Informationen sind:
 - Studiengang: **Studiengang**
 
 E-Mail mit `Team` oder `Gruppe` (z.B. `Gruppenanmeldung WAW`) im Betreff verschicken an:
-`c.martens [ insert an at here ] hs-mannheim.de`
+`martens [ insert an at here ] lba.hs-mannheim.de`
 
 
 # Entwicklungsumgebungen / Editoren

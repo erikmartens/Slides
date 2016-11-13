@@ -7,7 +7,7 @@
 
 ## Uebersicht
 
-- Beginn heute (20.04.2016)
+- Beginn heute
 - Detailansicht Auftraege
 - Bearbeiten und Loeschen von Auftraegen
 - GET Integration (/api/Tasks)
