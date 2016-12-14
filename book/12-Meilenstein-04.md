@@ -86,7 +86,7 @@ falls diese schon beantwortet sind.
 ## /api/Reports
 
 - `POST` Request versendet Datenobjekt mit ID
-- Verwendun nur fuer Bot Mode
+- Verwendung nur fuer Bot Mode
 
 ```javascript
 let data = {
