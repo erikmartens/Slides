@@ -213,6 +213,35 @@ fs.readFile('./foo.txt', 'utf8', (err, data) => {
 - Schreibe Inhalt in eine Datei
 
 
+= Debugging
+
+# Debugging
+
+## Debugging
+
+- `debugger` statement fuer Pausieren der Applikation
+- `breakpoints` in der UI fuer erneutes Pausieren
+
+
+## Debugging Beispiel
+
+```javascript
+console.log('hello world');
+
+debugger; // debugger will pause here on bootup
+```
+
+## Debugging Beispiel
+
+```bash
+# index.js has the above code content
+
+node --inspect --debug-brk index.js;
+
+# Now follow instructions and open Chrome
+```
+
+
 = Nodeschool
 
 # Nodeschool
