@@ -171,7 +171,7 @@ app.listen(3000);
 - `cors` Middleware fuer CORS Headers
 
 ```bash
-npm install body-parser;
+npm install cors;
 ```
 
 
